@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "1-GitLabUpload", ".", "{3C61906A-A322-4E95-960F-F2A14F1DF4D2}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53500"
+		Debug.AspNetCompiler.PhysicalPath = "G:\ProjectWeek\1-GitLabUpload\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53500\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53500"
+		Release.AspNetCompiler.PhysicalPath = "G:\ProjectWeek\1-GitLabUpload\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53500\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53500"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C61906A-A322-4E95-960F-F2A14F1DF4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C61906A-A322-4E95-960F-F2A14F1DF4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {003B734E-A9A5-4201-9254-13D6B2625711}
+	EndGlobalSection
+EndGlobal
